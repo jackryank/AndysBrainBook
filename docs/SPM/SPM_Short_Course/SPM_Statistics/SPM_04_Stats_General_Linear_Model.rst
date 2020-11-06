@@ -6,7 +6,7 @@ Chapter 4: The General Linear Model
 
 .. note::
 
-  This chapter is a brief introduction to the General Linear Model (GLM), and how it is applied to fMRI data. For a more complete introduction to the GLM, see `this tutorial <http://www.statsoft.com/Textbook/General-Linear-Models>`__ by StatSoft.
+  This chapter is a brief introduction to the General Linear Model (GLM), and how it is applied to fMRI data. For a more complete introduction to the GLM, see `this tutorial <https://statisticasoftware.wordpress.com/2012/07/16/generalized-linear-models-glz-statistics/>`__ by StatSoft.
 
 ---------
  
